@@ -16,6 +16,19 @@ public class gitnew {
 
 	}
 	
+			private void name4() {
+				// TODO Auto-generated method stub
+
+			}
+			private void name5() {
+				// TODO Auto-generated method stub
+
+			}
+			private void name6() {
+				// TODO Auto-generated method stub
+
+			}
+	
 	
 	
 
