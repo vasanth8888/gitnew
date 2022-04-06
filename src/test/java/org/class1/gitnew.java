@@ -28,8 +28,16 @@ public class gitnew {
 				// TODO Auto-generated method stub
 
 			}
+			
+			private void hai12() {
+				// TODO Auto-generated method stub
+
+			}
 	
-	
+	  private void hai14() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 	public static void main(String[] args) {
